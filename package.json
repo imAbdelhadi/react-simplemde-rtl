@@ -1,5 +1,5 @@
 {
-  "name": "react-simplemde-editor",
+  "name": "react-simplemde-rtl",
   "homepage": "http://www.benrlodge.com",
   "repository": "https://github.com/RIP21/react-simplemde-editor",
   "version": "4.1.3",
@@ -22,7 +22,7 @@
   "dependencies": {
     "@types/codemirror": "^0.0.88",
     "@types/marked": "^0.7.4",
-    "easymde": "^2.10.1"
+    "easymde-rtl": "^2.10.1"
   },
   "peerDependencies": {
     "react": ">=15",

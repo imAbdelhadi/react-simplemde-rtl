@@ -1,5 +1,5 @@
 import * as React from "react";
-import * as SimpleMDE from "easymde";
+import * as SimpleMDE from "easymde-rtl";
 import { KeyMap, DOMEvent, Editor } from "codemirror";
 
 const noop = () => {};

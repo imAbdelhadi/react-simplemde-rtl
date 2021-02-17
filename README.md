@@ -1,5 +1,7 @@
 # React SimpleMDE (EasyMDE) Markdown Editor
 
+Full RTL version of [**EasyMDE**](https://github.com/Ionaru/easy-markdown-editor) Markdown Editor for [Arabic](https://en.wikipedia.org/wiki/Arabic_script "Arabic script"), [Persian](https://en.wikipedia.org/wiki/Persian_language "Persian language"), and [Urdu](https://en.wikipedia.org/wiki/Urdu_language "Urdu language") languages.
+
 [![NPM version][npm-badge]][npm]
 
 React component wrapper for
