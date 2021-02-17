@@ -1,4 +1,4 @@
-# React SimpleMDE (EasyMDE) Markdown Editor
+# React SimpleMDE-RTL (EasyMDE) Markdown Editor
 
 Full RTL version of [**EasyMDE-RTL**](https://github.com/imAbdelhadi/easymde-rtl) Markdown Editor for [Arabic](https://en.wikipedia.org/wiki/Arabic_script "Arabic script"), [Persian](https://en.wikipedia.org/wiki/Persian_language "Persian language"), and [Urdu](https://en.wikipedia.org/wiki/Urdu_language "Urdu language") languages.
 
